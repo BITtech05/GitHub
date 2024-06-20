@@ -1,1 +1,8 @@
+Above the list of files, select the Add file ᐁ drop-down menu, then select Create new file. You might also have a Get started by creating a new file link. Alternatively, you can select the plus icon (+) in the file tree view on the left.
+
+
+
+
+In the file name field, type the name and extension for the file. To create subdirectories, type the / directory separator.
+
 
